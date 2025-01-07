@@ -1,0 +1,4 @@
+requests
+colorama
+psutil
+c0789f5cfcf18c3d02e824b8439dcd5c0f113044
